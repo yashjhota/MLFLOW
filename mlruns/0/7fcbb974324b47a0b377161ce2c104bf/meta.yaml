@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7fcbb974324b47a0b377161ce2c104bf/artifacts
+end_time: 1741814551520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fcbb974324b47a0b377161ce2c104bf
+run_name: crawling-mole-863
+run_uuid: 7fcbb974324b47a0b377161ce2c104bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741814548260
+status: 3
+tags: []
+user_id: jhota
