@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/MLFLOW/mlruns/680791614724900877/6a44ee2bb7fd4467b8203a9a09fa2ff3/artifacts
+end_time: 1741843427639
+entry_point_name: ''
+experiment_id: '680791614724900877'
+lifecycle_stage: active
+run_id: 6a44ee2bb7fd4467b8203a9a09fa2ff3
+run_name: judicious-cow-143
+run_uuid: 6a44ee2bb7fd4467b8203a9a09fa2ff3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741843427586
+status: 3
+tags: []
+user_id: jhota

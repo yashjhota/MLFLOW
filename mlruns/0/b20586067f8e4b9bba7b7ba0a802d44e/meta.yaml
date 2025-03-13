@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b20586067f8e4b9bba7b7ba0a802d44e/artifacts
+end_time: 1741843204305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b20586067f8e4b9bba7b7ba0a802d44e
+run_name: worried-ray-885
+run_uuid: b20586067f8e4b9bba7b7ba0a802d44e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741843194005
+status: 3
+tags: []
+user_id: jhota

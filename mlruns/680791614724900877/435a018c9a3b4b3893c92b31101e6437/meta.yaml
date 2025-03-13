@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/MLFLOW/mlruns/680791614724900877/435a018c9a3b4b3893c92b31101e6437/artifacts
+end_time: 1741843428462
+entry_point_name: ''
+experiment_id: '680791614724900877'
+lifecycle_stage: active
+run_id: 435a018c9a3b4b3893c92b31101e6437
+run_name: powerful-cat-750
+run_uuid: 435a018c9a3b4b3893c92b31101e6437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741843428402
+status: 3
+tags: []
+user_id: jhota

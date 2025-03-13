@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/99817a5973264987b4fb9cf21b04ceb9/artifacts
+end_time: 1741843052301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99817a5973264987b4fb9cf21b04ceb9
+run_name: upset-kit-426
+run_uuid: 99817a5973264987b4fb9cf21b04ceb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741843027387
+status: 3
+tags: []
+user_id: jhota

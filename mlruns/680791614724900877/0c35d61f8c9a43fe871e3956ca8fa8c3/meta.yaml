@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/MLFLOW/mlruns/680791614724900877/0c35d61f8c9a43fe871e3956ca8fa8c3/artifacts
+end_time: 1741843428393
+entry_point_name: ''
+experiment_id: '680791614724900877'
+lifecycle_stage: active
+run_id: 0c35d61f8c9a43fe871e3956ca8fa8c3
+run_name: popular-shoat-791
+run_uuid: 0c35d61f8c9a43fe871e3956ca8fa8c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741843428322
+status: 3
+tags: []
+user_id: jhota

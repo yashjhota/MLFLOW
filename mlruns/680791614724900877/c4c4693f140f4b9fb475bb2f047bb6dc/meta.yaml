@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/MLFLOW/mlruns/680791614724900877/c4c4693f140f4b9fb475bb2f047bb6dc/artifacts
+end_time: 1741843436046
+entry_point_name: ''
+experiment_id: '680791614724900877'
+lifecycle_stage: active
+run_id: c4c4693f140f4b9fb475bb2f047bb6dc
+run_name: stylish-swan-239
+run_uuid: c4c4693f140f4b9fb475bb2f047bb6dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741843422929
+status: 3
+tags: []
+user_id: jhota

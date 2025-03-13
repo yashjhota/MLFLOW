@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/MLFLOW/mlruns/680791614724900877/a380342c3aad4661b34b554ca99952eb/artifacts
+end_time: 1741843427580
+entry_point_name: ''
+experiment_id: '680791614724900877'
+lifecycle_stage: active
+run_id: a380342c3aad4661b34b554ca99952eb
+run_name: ambitious-wolf-768
+run_uuid: a380342c3aad4661b34b554ca99952eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741843427414
+status: 3
+tags: []
+user_id: jhota
